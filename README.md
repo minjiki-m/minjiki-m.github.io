@@ -1,0 +1,1 @@
+# minjiki-m.github.io
