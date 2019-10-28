@@ -18,7 +18,7 @@ Vue는 현대적 도구 및 지원하는 라이브러리와 함께 사용한다�
 
 
 #### BABEL
-[babel-doc][move-babel]에서 가져옴
+[babel doc][move-babel]에서 가져옴
 Babel은 ECMAScript 2015+ 코드를 현재 및 이전 버전의 브라우저 또는 환경에서 이전 버전과 호환되는 JavaScript 버전으로 변환하는 데 주로 사용되는 툴체인입니다. 
 
 Transform syntax
