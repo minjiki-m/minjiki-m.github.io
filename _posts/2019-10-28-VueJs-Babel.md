@@ -32,4 +32,4 @@ Babel은 구문 변환기를 통해 최신 버전의 JavaScript를 지원합니�
 바벨은 JSX 구문을 변환 할 수 있습니다! 시작하려면 React 사전 설정 을 확인하십시오 . babel-sublime 패키지 와 함께 사용하여 구문 강조를 완전히 새로운 수준으로 끌어 올립니다.
 
 [move-vue]:[https://kr.vuejs.org]
-[move-bable]:[https://babeljs.io/docs/en]
+[move-babel]:[https://babeljs.io/docs/en]
